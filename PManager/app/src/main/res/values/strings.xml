@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PManager</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="sign_in_string">Sign in</string>
+    <string name="forgot_password__string"><u>Forgot Password?</u></string>
+    <string name="password_string">Password</string>
+    <string name="don_t_have_an_account__sign_up_string">Dont have an account? Sign up</string>
+    <string name="______________string">************</string>
+    <string name="hi___welcome_back__you_have_been_missed__string">Hi ! Welcome back, you have been missed.</string>
+    <string name="email_string">Username</string>
+    <string name="sendtocynos_gmail_com_string">sendtocynos@gmail.com</string>
+    <string name="sign_in_ek1_string">Sign in</string>
+    <string name="or_sign_in_with_string">Or sign in with</string>
+    <string name="username_string">Username</string>
+    <string name="edit_profile_string">Edit Profile</string>
+    <string name="email_i_d_string">Email Id</string>
+    <string name="phone_number_string">Phone Number</string>
+    <string name="update_string">Update</string>
+    <string name="yanchui_string">yANCHUI</string>
+    <string name="change_picture_string">Change Picture</string>
+    <string name="yanchui_gmail_com_string">yanchui@gmail.com</string>
+    <string name="__14987889999_string">+14987889999</string>
+    <string name="evftbyvvcd_string">evFTbyVVCd</string>
+</resources>

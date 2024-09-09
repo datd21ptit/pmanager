@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_home" android:title="Home" android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/tab_todo" android:title="Todo" android:icon="@drawable/icon_todo"/>
+    <item android:id="@+id/tab_acc" android:title="User" android:icon="@drawable/icon_acc"/>
+</menu>
